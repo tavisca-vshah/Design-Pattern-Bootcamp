@@ -21,6 +21,8 @@ Note: The best way to remember Creational pattern is by remembering ABFPS (Abrah
 - Façade: A single class that represents an entire subsystem
 - Flyweight: A fine-grained instance used for efficient sharing
 - Proxy: An object representing another object
+
+## Behavioral Design Pattern
 - Mediator: Defines simplified communication between classes
 - Memento: Capture and restore an object's internal state
 - Interpreter: A way to include language elements in a program
